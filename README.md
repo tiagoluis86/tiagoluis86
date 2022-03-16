@@ -1,6 +1,6 @@
 Tiago
 
-Estudante Análise e Desenvolvimento de Sistemas
+Full-Stack Developer
 
 Curitiba, PR
 
