@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I`m Tiago</h1>
-<h3 align="center">A passionate frontend developer from Curitiba, BR.</h3>
+<h3 align="center">
+Passionate about science and technology.
+
+Since I was a teenager I learned to program in Visual Basic by poking around.
+
+Recently I am improving myself in Python, C#, HTML, CSS and Javascript. My goal is to be a Full Stack developer.
+
+I am currently studying Systems Analysis and Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagoluis86" alt="tiagoluis86" /></a> </p>
 
