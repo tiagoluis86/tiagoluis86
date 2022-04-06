@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I`m Tiago</h1>
+<h2 align="center">Hi 👋, I`m Tiago</h2>
 <h3 align="center">
 Passionate about science and technology.
 
 Since I was a teenager I learned to program in Visual Basic by poking around.
 
-Recently I am improving myself in Python, C#, HTML, CSS and Javascript. My goal is to be a Full Stack developer.
+Recently I am improving myself in Python, C#, HTML, CSS and Javascript. My goal is to be a Fullstack developer.
 
 I am currently studying Systems Analysis and Development.</h3>
 
