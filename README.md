@@ -12,11 +12,11 @@ I am currently studying Systems Analysis and Development.</h3>
 
 - 🌱 I’m currently learning **Python, Django, C#, HTML, Javascript**
 
-- 👨‍💻 All of my projects are available at [tiagocustodio.netlify.com](tiagocustodio.netlify.com)
+- 👨‍💻 All of my projects are available here and at [tiagocustodio.netlify.com](tiagocustodio.netlify.com)
 
 - 📫 How to reach me **tiagoluis86@outlook.com**
 
-- ⚡ This github **Its organized generally by subject, between personal and college projects while others have their own repository.**
+- ⚡ This github Its organized generally by subject, between personal and college projects while others have their own repository.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
