@@ -10,7 +10,7 @@ I am currently studying Systems Analysis and Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagoluis86" alt="tiagoluis86" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Django, C#, HTML, Javascript**
+- 🌱 I’m currently learning **Python** for backend development.
 
 - 👨‍💻 All of my projects are available here and at [tiagocustodio.netlify.com](tiagocustodio.netlify.com)
 
