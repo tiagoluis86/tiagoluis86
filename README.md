@@ -18,8 +18,6 @@ I am currently studying Systems Analysis and Development.</h3>
 
 - ⚡ 
 
-![image](https://user-images.githubusercontent.com/70555750/162579047-d23130ca-e5d3-42b6-bcd8-060509212fa8.png)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
