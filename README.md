@@ -16,7 +16,32 @@ I am currently studying Systems Analysis and Development.</h3>
 
 - 📫 How to reach me **tiagoluis86@outlook.com**
 
-- ⚡ This github is organized generally by subject, between personal and college projects while others have their own repository.
+- ⚡ Projects resume
+
+GameFlix	Web service	Python	Flask	Concluído
+Discord BOT	Bot	Python		Em andamento
+Mensageiro AMQP	Console app	Python		Concluído
+OurPlace Network	Web service	Python, HTML, CSS, Javascript	Django	Em andamento
+Ship War	Web game	HTML, CSS, Javascript	Bootstrap	Em andamento
+ClassicsPlay	Website	HTML, CSS, Javascript	Bootstrap	Concluído
+Student Grade Database	Console app	C#		Concluído
+Grocery Store Manager	Console app	Python		Concluído
+Game Database	Console app	Python		Concluído
+Schedule Organizer	Desktop app	C#		Concluído
+Paper, Scissors, Rock	Console game	Python		Concluído
+Costumer and Supplier Registration	Desktop app	C#	SQL	Concluído
+Income Tax App	Console app	Python		Concluído
+Free Python Course	Console app	Python		Concluído
+Company Website	Website	HTML, CSS, Javascript	Bootstrap	Concluído
+MyEcommerce	Web service	HTML, CSS, Javascript	ReactJS, Node JS, Tailwind	Em andamento
+Snakegame	Web game	HTML, CSS, Javascript		Concluído
+Faceapp	Website	HTML, CSS		Concluído
+Hotelzinho dos Animais	Console game	Python		Concluído
+Churrasco Calculator	Console app	Python		Concluído
+Catálogo Jogos	Desktop app	C#		Concluído
+
+![image](https://user-images.githubusercontent.com/70555750/162579047-d23130ca-e5d3-42b6-bcd8-060509212fa8.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
