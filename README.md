@@ -1,18 +1,10 @@
 <h2 align="center">Hi 👋, I`m Tiago</h2>
 <h3 align="center">
-Passionate about science and technology.
 
-Since I was a teenager I learned to program in Visual Basic by poking around.
-
-Recently I am improving myself in Python, C#, HTML, CSS and Javascript. My goal is to be a Fullstack developer.
-
-I am currently studying Systems Analysis and Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagoluis86" alt="tiagoluis86" /></a> </p>
 
-- 🌱 I’m currently learning **Python** for backend development.
-
-- 👨‍💻 All of my projects are available here and at [tiagocustodio.netlify.com](tiagocustodio.netlify.com)
+- 🌱 I’m currently learning **Python** and **Java** for backend development.
 
 - 📫 How to reach me **tiagoluis86@outlook.com**
 
